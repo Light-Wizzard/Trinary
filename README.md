@@ -1,2 +1,4 @@
 # Trinary
-Trinary is an Unreal Engine Game
+
+Trinary is an Unreal Engine Game based on Lyra.
+
